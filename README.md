@@ -4,13 +4,16 @@
 
 ### Hi there 👋
 
-I'm a Software Engineer currently attending General Assembly working on becoming a full stack dev. I enjoy learning new skills, and encouraging others along the way to do the same. “It is never too late to become the person you always thought you could be.” ~ George Eliot
+My name is Candace and I am a software engineer. I was introduced to coding by a friend. I enjoy learning new skills, and I decided to give it a try and found that I really enjoyed it. I was working as a team lead at Walmart at the time, and started teaching myself HTML, CSS, and JavaScript on my breaks in my car. I joined GA in April of 2022 and started my journey to becoming a software engineer. 
 
 
 ## Current coding languages
  HTML,
  CSS,
- JAVASCRIPT.
+ JavaScript.
+ Python,
+ React.js
+ 
 
 #### Want to connect?
 Send me a Email at: [candace.pinero@gmail.com](mailto:candace.pinero@gmail.com) 
