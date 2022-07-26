@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Candace and I am a software engineer. I was introduced to coding by a friend, I enjoy learning new skills, and I decided to give it a try and found that I really enjoyed it. I was working as a team lead at Walmart at the time, and started teaching myself HTML, CSS, and JavaScript on my breaks in my car. I joined GA in April of 2022 and started my journey to becoming a software engineer. 
+My name is Candace and I am a software engineer. I started my journey to becoming a software engineer in April 2022, after being introduced to coding by a friend. I was working as a team lead at Walmart at the time, and started teaching myself HTML, CSS, and JavaScript on my breaks in my car. I attended General Assembly's 12 week Full Stack Immersive program and spent the next 3 months learning Languages/Technologies like HTML, CSS, JavaScript, React, Python, jQuery, Express, EJS, Django, PostgreSQL, MongoDB, Node.js, Material-UI, and Materialize. I graduated from GA in July of 2022, and continue to develope my skills as a software engineer.
 
 
 ## Current coding languages
