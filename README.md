@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-I'm Candace, a software engineer my journey kicked off in April 2022, all thanks to a friend who sparked my interest in coding. While juggling my responsibilities and role as a team lead at Walmart, I used my break time to delve into self-guided learning of HTML, CSS, and JavaScript. 
+I'm Candace, and I'm a software engineer. My journey kicked off in April 2022, all thanks to a friend who sparked my interest in coding. While juggling my responsibilities and role as a team lead at Walmart, I used my break time to delve into self-guided learning of HTML, CSS, and JavaScript. 
 
 To further refine my skills, I embraced the challenge of General Assembly's intensive 12-week Full Stack Immersive program. Over the subsequent three months, I immersed myself in an extensive curriculum covering a spectrum of languages and technologies such as HTML, CSS, JavaScript, React, Python, jQuery, Express, EJS, Django, PostgreSQL, MongoDB, Node.js, Material-UI, and Materialize. My dedication paid off, and I graduated from the program in July 2022. 
 
